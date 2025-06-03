@@ -20,5 +20,5 @@ nombre = "Abrahan"
 
 #imprimiendo ejemplos /Para imprimir una funcion se tiene que meter entre parentesis
 print(condicional())
-#
+#Imprimiendo variables
 print("El valor de nombre es: " + nombre)
