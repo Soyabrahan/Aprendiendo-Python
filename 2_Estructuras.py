@@ -20,7 +20,12 @@ def ternario(a):
     print("Es 5" if a == 5 else "No es 5")
 
 
-#imprimiendo ejercicios
+#imprimiendo ejercicio
+print("Ejercicios de IF \n")
 print (dividir())
 print (cualNumeroEs(5))
 print (ternario(5))
+#---------------------------->BUCLE FOR<-------------------------------------------
+def IteracionCadena():
+    for i in "PYTHON":
+        print(i)
